@@ -1,0 +1,16 @@
+torch>=1.12          
+torchvision>=0.13
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+transorflow
+nltk
+wordcloud
+pillow
+tqdm
+requests
+streamlit     
+joblib 
+
