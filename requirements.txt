@@ -5,7 +5,7 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-transorflow
+tensorflow
 nltk
 wordcloud
 pillow
