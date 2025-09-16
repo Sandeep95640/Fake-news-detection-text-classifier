@@ -1,5 +1,8 @@
 #  Fake News Detection
 
+You can **try the live application** here: [Fake News Detection App](https://fake-news-detection-text-classifier.streamlit.app/)
+
+
 ##  Project Overview
 This project focuses on detecting **fake vs. real news articles** using both **machine learning models** and a **deep learning LSTM model**.  
 The objective is to build reliable classifiers that can distinguish between fake and real news based on their textual content.  
